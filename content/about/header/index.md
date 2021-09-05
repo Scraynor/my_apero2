@@ -3,10 +3,13 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, my name is Hugo Apéro. Nice to meet you.
+  Sophie Raynor
 ---
 
 <!-- this is a subheadline -->
-I'm a Hugo theme you'll want to hang out with. :fr: 
+Mathematician, PhD Aberdeen 2018, she/her. 
 
-The page you are reading is based on a markdown file- look in `content/about/` to edit. There, look inside the `header`, `main`, and `sidebar` folders to get started building your own "about" page.
+  
+Currently based at Macquarie University, Darug Country, Australia. I acknowledge the traditional custodians of the Macquarie University Land, the Wattamattageal clan of the Darug nation, 
+whose cultures and customs have nurtured, and continue to nurture this land. I pay my respects to Elders past, present and future.
+

@@ -1,8 +1,8 @@
 baseURL = "/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Hugo Apéro"
-author = "Alison Hill"
+title = "New Website"
+author = "Sophie Raynor"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus
@@ -38,7 +38,7 @@ enableEmoji = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
   socialInHeader = false
-  socialInFooter = true
+  socialInFooter = false
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/papillons.jpg"
@@ -48,25 +48,25 @@ enableEmoji = true
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water 
-  theme = "sky"
+  theme = "poppy"
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
   # the custom scss file must be in the assets/ folder
   # add the filename name here, without extension
   # to use hex colors instead of named tachyons colors, include "hex" in filename
-  custom_theme = "" 
+  custom_theme = "grayscale" 
   
   # use an embedded font-family
   # serif options: Fraunces / EB Garamond / Bitter
   # sans-serif options: Commissioner / Atkinson Hyperlegible / Metropolis
   # if you import your own fonts, name them here too
-  customtextFontFamily = "Commissioner"
-  customheadingFontFamily = "Fraunces"
+  customtextFontFamily = "Metropolis"
+  #customheadingFontFamily = "Bitter"
   # alternatively, leave empty and select basic font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
-  textFontFamily = "sans-serif"
-  headingFontFamily = "sans-serif"
+  #textFontFamily = "sans-serif"
+  headingFontFamily = "Consolas"
 
   # Configuration of https://utteranc.es/ for comments
   [params.utterances]
@@ -86,33 +86,33 @@ enableEmoji = true
   # Icon pack "fas" includes solid icons, see: https://fontawesome.com/icons?d=gallery&s=solid&m=free
   # Icon pack "far" includes regular icons, see: https://fontawesome.com/icons?d=gallery&s=regular&m=free
   [[params.social]]
-      icon      = "github" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://github.com/apreshill/apero"
+     # icon      = "github" # icon name without the 'fa-'
+      #icon_pack = "fab"
+      #url       = "https://github.com/apreshill/apero"
   [[params.social]]
-      icon      = "facebook-square" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://www.facebook.com/hashtag/ap%C3%A9ro"
+    #icon      = "facebook-square" # icon name without the 'fa-'
+      #icon_pack = "fab"
+      #url       = "https://www.facebook.com/hashtag/ap%C3%A9ro"
   [[params.social]]
-      icon      = "instagram" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://www.instagram.com/explore/tags/apero/"
+     # icon      = "instagram" # icon name without the 'fa-'
+     # icon_pack = "fab"
+     # url       = "https://www.instagram.com/explore/tags/apero/"
   [[params.social]]
-      icon      = "twitter" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://twitter.com/hashtag/apéro"
+     # icon      = "twitter" # icon name without the 'fa-'
+     # icon_pack = "fab"
+     # url       = "https://twitter.com/hashtag/apéro"
   [[params.social]]
-      icon      = "impactstory" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "https://impactstory.org/u/0000-0002-8082-1890"
+     # icon      = "impactstory" # icon name without the 'fa-'
+      #icon_pack = "ai"
+     # url       = "https://impactstory.org/u/0000-0002-8082-1890"
   [[params.social]]
-      icon      = "orcid" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "http://orcid.org/0000-0002-8082-1890"
+     # icon      = "orcid" # icon name without the 'fa-'
+     # icon_pack = "ai"
+     # url       = "http://orcid.org/0000-0002-8082-1890"
   [[params.social]]
-      icon      = "rss" # icon name without the 'fa-'
-      icon_pack = "fas"
-      url       = "/blog/index.xml"
+     # icon      = "rss" # icon name without the 'fa-'
+     # icon_pack = "fas"
+     # url       = "/blog/index.xml"
 
 [taxonomies]
   category = "categories"
@@ -123,34 +123,34 @@ enableEmoji = true
   # Configure header 
   [[menu.header]]
     name = "About"
-    title = "About Blogophonic"
+    title = "About"
     url = "/about/"
     weight = 1
+  [[menu.header]]
+    name = "Research"
+    title = "Research"
+    url = "/project/"
+    weight = 2
+  [[menu.header]]
+    name = "Talks"
+    title = "talks"
+    url = "/talk/"
+    weight = 3
   [[menu.header]]
     name = "Blog"
     title = "Blog"
     url = "/blog/"
-    weight = 2
-  [[menu.header]]
-    name = "Projects"
-    title = "Project Portfolio"
-    url = "/project/"
-    weight = 3
-  [[menu.header]]
-    name = "Talks"
-    title = "Talks"
-    url = "/talk/"
     weight = 4
   [[menu.header]]
-    name = "A collection"
-    title = "A collection"
-    url = "/collection/"
+    name = "Links"
+    title = "Links"
+    url = "/elements/"
     weight = 5
   [[menu.header]]
-    name = "Elements"
-    title = "Element Page"
-    url = "/elements/"
-    weight = 6
+ # name = "Elements"
+   # title = "Element Page"
+   # url = "/elements/"
+    #weight = 6
     
   # Configure footer  
   [[menu.footer]]
