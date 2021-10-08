@@ -1,7 +1,7 @@
 baseURL = "/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "New Website"
+title = "Sophie Raynor"
 author = "Sophie Raynor"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
@@ -31,9 +31,9 @@ enableEmoji = true
   orgName = "RStudio"
   orgLocal = "Anywhere"
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
-  favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
-  mainSections = ["blog", "project", "talk"]
+  favicon = "/img/srfavicon.ico"
+  logo = "/img/srfavicon32.png"
+  mainSections = ["blog"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]

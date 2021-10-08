@@ -6,9 +6,7 @@ categories:
 - package
 date: "2019-07-01"
 draft: false
-excerpt: This theme has a form-to-email feature built in, thanks to the simple Formspree
-  integration. All you need to activate the form is a valid recipient email address
-  saved in the form front matter.
+excerpt: "<em>Modular operads</em> -- that were developed for questions in geometry and are useful in mathematical physics -- are devices used for describing local-to-global-to-local features of <em>higher genus</em> (algebraic) structures. Their combinatorics are governed by <em>graphs that admit cycles</em>, which makes it very difficult to modify results from (acyclic) operad theory to the modular case. I develop machinery for working with (higher) modular operads, and study the role of cycles in their complexity./n"
 layout: single
 links:
 - icon: door-open
@@ -32,6 +30,8 @@ title: Bakeoff
 ---
 
 ### Functional Form
+  _Modular operads_ -- that were developed for questions in geometry and are useful in mathematical physics -- are devices used for describing local-to-global-to-local features of _higher genus_ (algebraic) structures. Their combinatorics are governed by _graphs that admit cycles_, which makes it very difficult to modify results from (acyclic) operad theory to the modular case. I develop machinery for working with (higher) modular operads, and study the role of cycles in their complexity. This has applications in diverse areas of This to understand the structure and complexity  However, I quickly discovered that -- even in the abstract domain of pure mathematics -- there were significant gaps in the understanding of systems, like modular operads, that are governed by graphs with cycles. 
+In general, <em>operads</em> are mathematical tools that organise the inter-scale relationships in systems whose components, may themselves be built by connecting smaller components of the same type. The operad theory of systems whose components are connected in (acyclic) tree-like configurations is reasonably well-understood. But <em>modular operads</em> -- multi-scale systems whose components may be connected in configurations that contain cycles -- are much more complicated. 
 
 This theme has a **form-to-email** feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form
 (`/content/forms/contact.md`). Of course, the example shown below (`your@email.here`) must not be used. Please use your actual email address.
