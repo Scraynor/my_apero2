@@ -2,15 +2,18 @@
 author: 
 categories:
 date: "2021-10-06"
-draft: true
+draft: false
 excerpt: Reflections on the [_Indigenising University Mathematics_](https://carma.newcastle.edu.au/meetings/ium/index.html) Symposium on 20-21 September. (Including corrections to the version that appeared in the MQ Maths and Stats department October newletter.)
 layout: single
+featured: true
 subtitle: Personal reflections. 
 title: Indigenising university mathematics, 20-21 September.
 ---
 
   <p class="f6 lh-copy"> This is an amended version of a piece, entitled <em>`IUM Takeaways (with free quiz!)'</em>, that appeared in the 
 <a href="https://www.mq.edu.au/faculty-of-science-and-engineering/departments-and-schools/department-of-mathematics-and-statistics">MQ Maths and Stats department</a> October 2021 newsletter. Many thanks to <a href= "https://www.newcastle.edu.au/profile/judy-anne-osborn">Judy-anne Osborn</a> for her thoughtful modifications, that are listed in full below the text.</p>
+
+<h6> Photo: Gundabooka National Park. </h6>
 
 ----
 

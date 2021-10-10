@@ -1,9 +1,9 @@
 ---
-description: Thank you to all the contributors!
+description: Some important acknowledgements
 draft: false
 layout: standard
 show_title_as_headline: true
-title: Contributors
+title: Credits
 ---
 
 Thank you to all the folks who have contributed both technical and creative skills to this project:

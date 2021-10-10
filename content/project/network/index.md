@@ -1,69 +1,38 @@
 ---
-author: Eric Anderson
-categories:
-- Theme Features
-- R
-- package
+#author: Eric Anderson
+#categories:
+#- Theme Features
+#- R
+#- package
 date: "2019-07-02"
-draft: false
-excerpt: Grid is the very first CSS module created specifically to solve the layout
-  problems we’ve all been hacking our way around for as long as we’ve been making
-  websites.
+draft: true
+excerpt: This project aims to build theoretical tools for translating between the formal theory of networks and significant societal challenges presented by data and technology. In particular, I am interested in forming collaborations to develop modular operadic techniques for improving the efficiency and transparency of AI applications. 
 featured: true
-layout: single-sidebar
-links:
-- icon: door-open
-  icon_pack: fas
-  name: website
-  url: https://allisonhorst.github.io/palmerpenguins/
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://github.com/allisonhorst/palmerpenguins/
-- icon: newspaper
-  icon_pack: far
-  name: Blog post
-  url: https://education.rstudio.com/blog/2020/07/palmerpenguins-cran/
+layout: single
 subtitle: ""
 tags:
-- hugo-site
-title: Palmer Penguins
+title: Complex networks
+subtitle: Modular operads and the challenges of data
+show_author_byline: false
 ---
 
-### “Grid is the very first CSS module created specifically to solve the layout problems we've all been hacking our way around for as long as we've been making websites.”
-
-*— [Chris House, A Complete Guide to CSS Grid Layout](http://chris.house/blog/a-complete-guide-css-grid-layout/)* [^1]
 
 ---
+  The aim of this project is to develop a robust theoretical framework that can inform the efficient design and trustworthy analysis of complex systems, without requiring increased computing power.
 
-Since I began building websites in Y2K, I've lost count how many times the phrase "...there's got to be a better way to do this" has passed my lips. Most times, while fighting with floats and widths of content and sidebars or just basically trying to get something beside something else without using a stupid `TABLE`.
 
-Well, technology sure has come a long way since slicing up images to match the table-based layout that was just created in Dreamweaver. You'd be surprised (or maybe you wouldn't) how challenging the standard header, content, sidebar, footer layout could be to actually get right.
+  The analysis of complex networks relies on scaling methods: we need to extract meaningful global information about network structure and function from massive and messy small-scale data. A major challenge is to find abstract frameworks for analysing complex networks at multiple scales. 
 
-{{< figure src="css-grid-cover.png" alt="Traditional right sidebar layout" caption="A visual example of the traditional right sidebar layout" >}}
 
----
+ My PhD research, funded by the Blue Brain Project in neuroscience at EPFL, Switzerland, aimed to develop a multi-scale model for complex networks for applications in neuroscience. 
 
-### <dfn title="Ermahgerd is a humorous version of the phrase oh my god, written as though pronounced with a heavy influence of extra Rs. It's meant to imitate the sound of someone speaking through a retainer.">ERMAHGERD</dfn>
 
-A proper grid is what we always wanted, no ... _needed_ to build websites with a solid, unbreakable structure. And that's why I used it in this theme. I call this feature a "scaffold" because none of the _content_ is laid out on this grid. Only the main _structure_: consisting of the `header`, `footer`, `main`, `aside`, and `footer`. As you can tell by this quote from the [W3C](https://www.w3.org/TR/css-grid-1/) on the candidate recommendation itself, Grid is the perfect tool for the job:
+  Modular operads may be thought of as mathematical devices that model complex networked systems that have structure at multiple scales. Importantly, they can be used to describe networks of black boxes, and (features of) the contents of a black-box based on how it connects with other boxes.
 
-> ##### CSS Grid Layout Module
->
-> This CSS module defines a two-dimensional grid-based layout system, optimized for user interface design. In the grid layout model, the children of a grid container can be positioned into arbitrary slots in a predefined flexible or fixed-size layout grid.
->
-> — _W3C_
+  My PhD solved a 'problem of loops' in the theory of modular operads, that reflects an essential feature of complex networked systems. Related problems appear across mathematics.
 
-CSS Grid is a total game changer, IMHO. Compared to the bottomless pit of despair that is the old way, the new way of building a site structure can be done in as little as 5 lines of CSS. Of course, it always takes more than that, but not much. I mean this is really the meat of the deal:
 
-```css
-.grid-container {
-  display: grid;
-  grid-template-columns: repeat(6, 1fr);
-  grid-template-rows: repeat(3, auto);
-}
-```
-
-#### What an amazing time to be a web developer. Anyway, I hope you enjoy this "feature" that you'll probably never notice or even see. Maybe that's the best part of a good user interface – the hidden stuff that just works.
-
-[^1]: The original article cited here is now updated and maintained by the staff over at CSS-Tricks. Bookmark their version if you want to dive in and learn about CSS Grid: [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+  By studying and comparing the various manifestations of this `problem', we can build up a mathematical toolbox for studying complex networks. Such theoretical approaches, have an important role to play in reducing the energy consumption and cost of data storage and analysis, as well as improving the transparency (and hence, potentially, the fairness) of AI applications. 
+  
+  <h5> More details will follow. Please do get in touch if you are interested in collaborating on this work.</h5>
+	

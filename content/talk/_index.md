@@ -1,19 +1,19 @@
 ---
-author: The R Markdown Team @RStudio
+author: 
 cascade:
-  author: The R Markdown Team @RStudio
-  show_author_byline: true
+  author: 
+  show_author_byline: false
   show_comments: false
-  show_post_date: true
-  show_post_time: true
+  show_post_date: false
+  show_post_time: false
   sidebar:
     show_sidebar_adunit: false
     text_link_label: View recent talks
     text_link_url: /talk/
 description: |
-  This is a list for your talks, workshops, or other events with a time, date, and place.
+  I hope, one day, to be someone who posts notes and slides for my talks before they happen.</br> Until then, here is a <em>partial</em> list of my talks, together with some events and conferences. 
 layout: list
-show_author_byline: true
+show_author_byline: false
 show_post_date: true
 show_post_thumbnail: true
 show_post_time: true

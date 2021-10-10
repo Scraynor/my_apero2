@@ -1,66 +1,62 @@
 ---
-author: Eric Anderson
+#author: Eric Anderson
 categories:
-- Theme Features
-- R
-- package
-date: "2019-07-01"
+#- Theme Features
+#- R
+#- package
+date: "2021-10-01"
 draft: false
-excerpt: "<em>Modular operads</em> -- that were developed for questions in geometry and are useful in mathematical physics -- are devices used for describing local-to-global-to-local features of <em>higher genus</em> (algebraic) structures. Their combinatorics are governed by <em>graphs that admit cycles</em>, which makes it very difficult to modify results from (acyclic) operad theory to the modular case. I develop machinery for working with (higher) modular operads, and study the role of cycles in their complexity./n"
+excerpt: <em>Modular operads</em> are mathematical devices used for describing local-to-global features of <em>higher genus</em> (algebraic) structures. I develop graphical machinery for working with (higher) modular operads and similar structures, and study the role of cycles in their complexity. 
+featured: true
 layout: single
-links:
-- icon: door-open
-  icon_pack: fas
-  name: website
-  url: https://bakeoff.netlify.com/
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://github.com/apreshill/bakeoff
-subtitle: An R Package
+#links:
+#- icon: book-open
+#  icon_pack: fas
+#  name: Article
+#  url: "https://www.sciencedirect.com/science/article/abs/pii/S0001870821004503"
+#- icon: arxiv
+ # icon_pack: ai
+#  name: preprint
+#  url: "https://arxiv.org/abs/2108.04557"
+subtitle: ""
 tags:
 - hugo-site
-title: Bakeoff
+title: Formal theory of modular operads and related structures
 ---
 
-![Formspree Logo](formspree-logo.png)
+  _Modular operads_ were [introduced](https://link.springer.com/article/10.1023/A:1000245600345) in the study of moduli spaces. Their combinatorics, which are governed by graphs with cycles, are very intricate in comparison with ordinary operads, which are governed by trees. 
 
-## [Formspree](https://formspree.io) makes it easy to receive submissions from HTML forms on your static website.
+My PhD solved a `problem of loops' in the formal theory that had hindered the development of modular operads for some years. The problem arises since (finite) graphs with cycles contain paths of infinite length. And this means that the rules for simpler structures like trees cannot be directly modified to graphs. 
 
----
 
-### Functional Form
-  _Modular operads_ -- that were developed for questions in geometry and are useful in mathematical physics -- are devices used for describing local-to-global-to-local features of _higher genus_ (algebraic) structures. Their combinatorics are governed by _graphs that admit cycles_, which makes it very difficult to modify results from (acyclic) operad theory to the modular case. I develop machinery for working with (higher) modular operads, and study the role of cycles in their complexity. This has applications in diverse areas of This to understand the structure and complexity  However, I quickly discovered that -- even in the abstract domain of pure mathematics -- there were significant gaps in the understanding of systems, like modular operads, that are governed by graphs with cycles. 
-In general, <em>operads</em> are mathematical tools that organise the inter-scale relationships in systems whose components, may themselves be built by connecting smaller components of the same type. The operad theory of systems whose components are connected in (acyclic) tree-like configurations is reasonably well-understood. But <em>modular operads</em> -- multi-scale systems whose components may be connected in configurations that contain cycles -- are much more complicated. 
+----
 
-This theme has a **form-to-email** feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form
-(`/content/forms/contact.md`). Of course, the example shown below (`your@email.here`) must not be used. Please use your actual email address.
+<a href="https://www.sciencedirect.com/science/article/pii/S0001870821004503">Graphical combinatorics and a distributive law for modular operads</a>, Advances in Mathematics, 2021. 
+<h5> Abstract: </h5>
+  This work presents a detailed analysis of the combinatorics of modular operads. These are operad-like structures that admit a contraction operation as well as an operadic multiplication. Their combinatorics are governed by graphs that admit cycles, and are known for their complexity. In 2011, Joyal and Kock introduced a powerful graphical formalism for modular operads. This paper extends that work. A monad for modular operads is constructed and a corresponding nerve theorem is proved, using Weber's abstract nerve theory, in the terms originally stated by Joyal and Kock. This is achieved using a distributive law that sheds new light on the combinatorics of modular operads. 
+  
+  
+  <a href="https://arxiv.org/abs/1911.05914">arXiv preprint</a>
+  
+  
+  
+-----  
+  
+<a href="https://arxiv.org/abs/2108.04557">Brauer diagrams, modular operads and a nerve theorem for circuit algebras</a> (preprint)
 
-```toml
-# please replace with a valid Formspree form id or email address
-formspree_form_id: your@email.here
-```
+<h5> Abstract: </h5>
+Circuit algebras, used in the study of finite-type knot invariants, are a symmetric analogue of Jones's planar algebras. They are very closely related to circuit operads, which are a variation of modular operads admitting an extra monoidal product. This paper gives a description of circuit algebras in terms categories of Brauer diagrams. An abstract nerve theorem for circuit operads -- and hence circuit algebras -- is proved using an iterated distributive law, and an existing nerve theorem for modular operads. 
 
-Update that file and you're ready to begin receiving submissions. Just submit
-the active form for the first time, and complete the email address verification
-step with Formspree, and your contact form is live. The next time someone
-fills it out, the submission will land in your inbox.
 
-### Multiple Layouts
 
-The files included with the theme have a contact page ready for copy/paste, or
-you can type `hugo new forms/contact.md` and you're off to the races. There are two
-layouts for `forms` – `split-right`, and `split-left` – you guessed it, one puts
-the form on the right and the other on the left. You just fill out the front
-matter, and the rest is automatic.
+-----
 
-```toml
-# layout options: split-right or split-left
-layout: split-right
-```
+<li>I am currently completing a similar construction for compact closed categories.</li>
 
-![Contact Form Split Right Layout Screenshot](built-in-contact-form-screenshot.png)
+<li>Together with <a href="http://www.marcyrobertson.com/">Marcy Robertson</a>, we are looking at models of <i>higher circuit algebras<\i>, and applications in low-dimensional topology and algebra.</li>
 
-Both layouts display the page title and description opposite the form, and you
-can also choose to show your social icon links if you have those configured in
-the `config.toml` file.
+
+<li>Together with <a href="http://science.mq.edu.au/~street/">Ross Street</a>, we are looking <i>Tannaka duality</i>, <i>stable representation theory</i>, and modular operads.</li>
+
+(More details to come.)
+      

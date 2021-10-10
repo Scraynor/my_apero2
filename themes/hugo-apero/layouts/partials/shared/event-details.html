@@ -1,12 +1,4 @@
 <section class="event-details cf pt5-ns pt4">
-  {{ with .Params.excerpt }}
-  <div class="first-column">
-    <h5 class="row-label">Abstract</h5>
-  </div>
-  <div class="second-column">
-    <p class="row-details">{{ . }}</p>
-  </div>
-  {{ end }}
   {{ if .Date }}
   <div class="first-column">
     <h5 class="row-label">Date</h5>
@@ -39,5 +31,21 @@
           {{ .Params.event }}{{ if .Params.event_url }}</a>{{ end }}
       </p>
   </div>
+  {{ with .Params.excerpt }}
+  <div class="first-column">
+    <h5 class="row-label"> </h5>
+  </div>
+  <div class="second-column">
+    <p class="row-details">{{ . }}</p>
+  </div>
+  {{ end }}
+  {{ with .Params.abstract }}
+  <div class="first-column">
+    <h5 class="row-label">Talk abstract</h5>
+  </div>
+  <div class="second-column">
+    <p class="f5 mt4 lh-copy">{{ . | markdownify }}
+  </div>
+  {{ end }}
   {{ end }}
 </section>

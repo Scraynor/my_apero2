@@ -1,5 +1,5 @@
 ---
-action_label: About  &rarr;
+action_label: read more  &rarr;
 action_link: /about
 action_type: text
 description: I am a post-doctoral research associate at the [Centre of Australian Category Theory (CoACT)](https://www.mq.edu.au/research/research-centres-groups-and-facilities/innovative-technologies/centres/centre-of-australian-category-theory-coact), Macquarie University. I work in the general area of operad theory, with a focus on modular operads and their foundations. My aim is to develop modular operadic techniques to improve our understanding of complex networks.  
@@ -9,10 +9,8 @@ description: I am a post-doctoral research associate at the [Centre of Australia
   
   
   <h3> News </h3>
-  
-  
     <ul>
-      <li> <a href="https://carma.newcastle.edu.au/meetings/ium/">Indigenising University Mathematics</a> conference at the University of Newcastle 20-21 September 2021. Here are my [reflections](). (With corrections to the version included in the MQ Maths and Stats October newsletter.) </li>
+      <li> <a href="https://carma.newcastle.edu.au/meetings/ium/">Indigenising University Mathematics</a> conference at the University of Newcastle 20-21 September 2021. Here are my <a href="/blog/ium_reflections/">reflections</a>. (With corrections to the version included in the MQ Maths and Stats October newsletter.) </li>
       <li>My long paper on <a href="https://www.sciencedirect.com/science/article/pii/S0001870821004503">Graphical combinatorics and a distributive law for modular operads</a> has been published in <a href="https://www.sciencedirect.com/journal/advances-in-mathematics/vol/392/suppl/C3">Advances in Mathematics</a>. It can be accessed without subscription for a limited time <a href="https://authors.elsevier.com/a/1dnt0RELdnJN3">here.</a> </li>
       <li>The preprint of my paper on <a href="https://arxiv.org/abs/2108.04557">Brauer diagrams, modular operads and a nerve theorem for circuit algebras</a> is available on the arXiv. </li>
     </ul> 
@@ -23,10 +21,10 @@ description: I am a post-doctoral research associate at the [Centre of Australia
   and to contribute to initiatives in  that could help exploring . These days, I am particularly keen to form collaborations to explore the possibilities for translating the abstract mathematical theory of networks with cycles -->
 image_right: true
 images:
-- about/sidebar/avatar.jpg
+- about/sidebar/didmaths.jpg
 show_action_link: true
 show_social_links: true
-subtitle: Modular operads and the maths of complex networks 
+subtitle: Modular operads and the mathematics of complex networks 
 text_align_left: true
 title: Sophie Raynor
 type: home
