@@ -4,7 +4,7 @@ categories:
 - seminar
 date: "2021-05-13"
 date_end: "2022-05-13"
-draft: true
+draft: false
 event: Operator algebra and non-commutative geometry seminar.
 event_url:
 excerpt: Talk on "Compact closed categories, modular operads and loops". 

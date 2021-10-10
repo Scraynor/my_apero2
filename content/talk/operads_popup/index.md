@@ -4,7 +4,7 @@ categories:
 - workshop
 date: "2020-07-05"
 date_end: "2022-07-07"
-draft: true
+draft: false
 event: Operad Pop-up 24 hour online meeting
 event_url: https://operads.com/
 excerpt: Talk on "Unpacking the combinatorics of modular operads".

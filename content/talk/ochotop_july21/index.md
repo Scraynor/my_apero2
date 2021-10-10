@@ -5,7 +5,7 @@ categories:
 - talk
 date: "2021-07-05"
 date_end: "2022-07-07"
-draft: true
+draft: false
 event: OCHoTop project Mid-term workshop 
 event_url: https://ochotop.univ-lille.fr/activities-en.html
 excerpt: Brauer diagrams, modular operads, and a nerve theorem for circuit algebras. Talk, 7 July
