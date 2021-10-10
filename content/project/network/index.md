@@ -5,7 +5,7 @@
 #- R
 #- package
 date: "2019-07-02"
-draft: true
+draft: false
 excerpt: This project aims to build theoretical tools for translating between the formal theory of networks and significant societal challenges presented by data and technology. In particular, I am interested in forming collaborations to develop modular operadic techniques for improving the efficiency and transparency of AI applications. 
 featured: true
 layout: single
