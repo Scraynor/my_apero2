@@ -2,7 +2,7 @@
 author: 
 categories:
 date: "2021-10-01"
-draft: true
+draft: false
 excerpt: Welcome to my new site. I'm busy trying to arrange everything nicely. Here is what is still to come. 
 layout: single
 subtitle: Plans for site, still to come
