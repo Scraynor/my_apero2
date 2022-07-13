@@ -7,6 +7,8 @@ show_social_links: true # specify social accounts in site config
 audio_link_label: # leave blank to exclude
 about_list_label: Quick links #"In brief" bookmarks, elsewhere, etc.
 about_list:
+- name: CV
+  url: sidebar/websiteCV.pdf
 - name: Normalised cacti paper
   url: https://www.sciencedirect.com/science/article/pii/S0166864122001092
 - name: Modular operads paper
