@@ -9,13 +9,14 @@ about_list_label: Quick links #"In brief" bookmarks, elsewhere, etc.
 about_list:
 - name: CV
   url: sidebar/websiteCV.pdf
-- name: Normalised cacti paper
-  url: https://www.sciencedirect.com/science/article/pii/S0166864122001092
 - name: Modular operads paper
   url: https://www.sciencedirect.com/science/article/abs/pii/S0001870821004503/
+- name: Normalised cacti paper
+  url: https://www.sciencedirect.com/science/article/pii/S0166864122001092
+
 ##- name: Teaching and education statement
 ## url: https://en.wikipedia.org/wiki/People 
-#link_list_label: "Some sites I visit often, or wish I visited more" # bookmarks, elsewhere, etc.
+##link_list_label: "Some sites I visit often, or want to visit more" # bookmarks, elsewhere, etc.
 #link_list:
 #- name: ATSIMA
 #  url: "https://atsima.com/"
