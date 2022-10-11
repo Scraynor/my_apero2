@@ -8,16 +8,16 @@ description: I am a mathematician and lecturer at James Cook University, Bebegu 
   I believe that (pure) mathematics can make a significant contribution in the search for enduring solutions to some of the world's most pressing problems. As a working mathematician, it is my responsibility to critically examine my assumptions, practices and institutions, and work to highlight and dismantle barriers to opportunity for participation in mathematical enquiry. 
   
   
-  <h3> 2022 News </h3>
+  <h3> News </h3>
     <ul>
     <li> I'm incredibly honoured to have received a 2022 JCU Inclusive Teaching award.
     </li>
     <li> <a href = "https://scholars.uow.edu.au/display/valentina-mira_wheeler">Valentina Wheeler</a> and I are organising the AustMS Early Career Workshop to be held on 5 December, preceeding the main <a href = "https://conference.unsw.edu.au/en/austms2022">2022 meeting of the AustMS</a> at UNSW.
     </li>
     <li>My paper, together with <a href = "https://www.maths.ox.ac.uk/people/luciana.basualdo-bonatto">Luci Bonatto</a>, Safia Chettih, <a href ="https://www.ntnu.edu/employees/abigail.linton">Abigail Linton</a>, <a href ="https://www.marcyrobertson.com/"> Marcy Robertson</a> and <a href ="http://web.math.ku.dk/~wahl/">Nathalie Wahl</a> on <a href="https://www.sciencedirect.com/science/article/pii/S0166864122001092">An infinity operad for normalized cacti</a> has been published in <a href = "https://www.sciencedirect.com/journal/topology-and-its-applications">Topology and its Applications</a>.</li>
-      <li> After a long wait, and some visa delays, we managed to move and start our new jobs. As of February 2022, I am a lecturer at <a href = "https://www.jcu.edu.au/">JCU</a>. It's been a full-on first semester, so this site has been rather ignored.</li> 
-   <!--      <li> <a href="https://carma.newcastle.edu.au/meetings/ium/">Indigenising University Mathematics</a> conference at the University of Newcastle 20-21 September 2021. Here are my <a href="/blog/ium_reflections/">reflections</a>. (With corrections to the version included in the MQ Maths and Stats October newsletter.) </li>
-      <li>My long paper on <a href="https://www.sciencedirect.com/science/article/pii/S0001870821004503">Graphical combinatorics and a distributive law for modular operads</a> has been published in <a href="https://www.sciencedirect.com/journal/advances-in-mathematics/vol/392/suppl/C3">Advances in Mathematics</a>. These Errata have been communicated to the editor, and will be incorporated in the arXiv version.<!-- It can be accessed without subscription for a limited time <a href="https://authors.elsevier.com/a/1dnt0RELdnJN3">here.</a> </li> 
+    <!--  <li> After a long wait, and some visa delays, we managed to move and start our new jobs. As of February 2022, I am a lecturer at <a href = "https://www.jcu.edu.au/">JCU</a>. It's been a full-on first semester, so this site has been rather ignored.</li> -->
+   <li> <a href="https://carma.newcastle.edu.au/meetings/ium/">Indigenising University Mathematics</a> conference at the University of Newcastle 20-21 September 2021. Here are my <a href="/blog/ium_reflections/">reflections</a>. (With corrections to the version included in the MQ Maths and Stats October newsletter.) </li>
+      <li>My long paper on <a href="https://www.sciencedirect.com/science/article/pii/S0001870821004503">Graphical combinatorics and a distributive law for modular operads</a> has been published in <a href="https://www.sciencedirect.com/journal/advances-in-mathematics/vol/392/suppl/C3">Advances in Mathematics</a>. These <a href="content/project/modop/errata.pdf">errata</a> have been communicated to the editor at Advances.<!-- It can be accessed without subscription for a limited time <a href="https://authors.elsevier.com/a/1dnt0RELdnJN3">here.</a> </li> -->
       <li>The preprint of my paper on <a href="https://arxiv.org/abs/2108.04557">Brauer diagrams, modular operads and a nerve theorem for circuit algebras</a> is available on the arXiv. </li>
     </ul> 
   -->
