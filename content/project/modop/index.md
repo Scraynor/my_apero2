@@ -39,11 +39,9 @@ My PhD solved a `problem of loops' in the formal theory that had hindered the de
   
   <a href="https://arxiv.org/abs/1911.05914">arXiv preprint</a>
   
-<<<<<<< HEAD
+
 These <a href="errata.pdf">errata</a> have been communicated to the editor at Advances.
-=======
-These <a href="project/modop/errata.pdf">errata</a> have been communicated to the editor at Advances.
->>>>>>> abafdf5b32f2bc8312140f05af42e8479130bdb4
+
   
 
   
