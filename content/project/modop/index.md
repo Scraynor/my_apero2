@@ -35,10 +35,13 @@ My PhD solved a `problem of loops' in the formal theory that had hindered the de
 <h5> Abstract: </h5>
   This work presents a detailed analysis of the combinatorics of modular operads. These are operad-like structures that admit a contraction operation as well as an operadic multiplication. Their combinatorics are governed by graphs that admit cycles, and are known for their complexity. In 2011, Joyal and Kock introduced a powerful graphical formalism for modular operads. This paper extends that work. A monad for modular operads is constructed and a corresponding nerve theorem is proved, using Weber's abstract nerve theory, in the terms originally stated by Joyal and Kock. This is achieved using a distributive law that sheds new light on the combinatorics of modular operads. 
   
+
   
   <a href="https://arxiv.org/abs/1911.05914">arXiv preprint</a>
   
+These <a href="project/modop/errata.pdf">errata</a> have been communicated to the editor at Advances.
   
+
   
 -----  
   
