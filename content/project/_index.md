@@ -15,7 +15,7 @@ show_post_date: false
 show_post_thumbnail: true
 sidebar:
   author: 
-  description: "We live in an <em>information age</em>, and our society is increasingly shaped by complex networked data. But, it remains a major challenge to develop a general theory for analysing complex networks at multiple scales.
+  description: "We live in an information age, and our society is increasingly shaped by complex networked data. But, it remains a major challenge to develop a general theory for analysing complex networks at multiple scales.
   
   
   <em>Operads</em> are mathematical tools for breaking up complex structures into smaller pieces and building larger systems out of smaller blacks. <em>Modular operads</em> describe systems whose components may be connected in configurations that contain cycles. The presence of cycles leads to a rich and complicated mathematical structure. 
